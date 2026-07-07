@@ -1,26 +1,81 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafafa; /* Using the Off-White from your palette */
+  --foreground: #433c3c; /* Using Pitch Black */
+  
+  /* Brand Palette Variables */
+  --brand-orange: #fa5c01;
+  --brand-orange-light: #ff9a60;
+  --brand-offwhite: #fafafa;
+  --brand-white: #ffffff;
+  --brand-grey-sand: #d5d1c8;
+  --brand-grey-sand-light: #e6e1d8;
+  --brand-taupe: #675845;
+  --brand-taupe-light: #8d7961;
+  --brand-black: #000000;
+  --brand-black-light: #2f2f2f;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-syne);
   --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-bebas);
+
+  /* Registering the brand colors globally for Tailwind utility classes */
+  --color-orange-primary: var(--brand-orange);
+  --color-orange-secondary: var(--brand-orange-light);
+  
+  --color-off-white: var(--brand-offwhite);
+  --color-pure-white: var(--brand-white);
+  
+  --color-grey-sand: var(--brand-grey-sand);
+  --color-grey-sand-light: var(--brand-grey-sand-light);
+  
+  --color-deep-taupe: var(--brand-taupe);
+  --color-deep-taupe-light: var(--brand-taupe-light);
+  
+  --color-pitch-black: var(--brand-black);
+  --color-dark-grey: var(--brand-black-light);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #fafafa; /* Pitch Black for dark mode background */
+    --foreground: #fafafa; /* Off-White for dark mode text */
   }
+}
+
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-syne), var(--font-geist-sans), Arial, sans-serif;
+  margin: 12px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-bebas), "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 0.04em;
 }

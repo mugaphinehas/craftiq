@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.6656cm" height="37.1167cm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1013.93 1737.03"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:#90D9C6}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M768.66 1219.49c126.19,0 228.49,102.3 228.49,228.49 0,126.19 -102.3,228.49 -228.49,228.49 -126.19,0 -228.49,-102.3 -228.49,-228.49 0,-126.19 102.3,-228.49 228.49,-228.49z"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M530.41 1447.98c0,-132.36 107.3,-239.65 239.65,-239.65 132.36,0 239.65,107.3 239.65,239.65 0,359.14 4.22,-379.29 4.22,-419.13 0,-133.35 -109.11,-242.46 -242.46,-242.46l-242.46 0c0,20.47 1.4,1075.25 1.4,661.59z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M242.46 1548.41l-242.46 0 0 -519.56c0,-133.35 109.11,-242.46 242.46,-242.46l242.46 0 0 519.56c0,133.35 -109.11,242.46 -242.46,242.46z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2958986309984">
+   <path class="fil0" d="M529.01 0l484.93 0 0 519.56c0,133.35 -109.11,242.46 -242.46,242.46l-242.46 0 0 -762.03z"/>
+   <path class="fil0" d="M768.66 1219.49c126.19,0 228.49,102.3 228.49,228.49 0,126.19 -102.3,228.49 -228.49,228.49 -126.19,0 -228.49,-102.3 -228.49,-228.49 0,-126.19 102.3,-228.49 228.49,-228.49z"/>
+   <g style="clip-path:url(#id0)">
+    <g>
+     <image x="540.17" y="1162.29" width="456.99" height="571.39" xlink:href="hero image_Images\hero image_ImgID1.png"/>
+    </g>
+   </g>
+   <path class="fil1" d="M768.66 1219.49c126.19,0 228.49,102.3 228.49,228.49 0,126.19 -102.3,228.49 -228.49,228.49 -126.19,0 -228.49,-102.3 -228.49,-228.49 0,-126.19 102.3,-228.49 228.49,-228.49z"/>
+   <path class="fil2" d="M530.41 1447.98c0,-132.36 107.3,-239.65 239.65,-239.65 132.36,0 239.65,107.3 239.65,239.65 0,359.14 4.22,-379.29 4.22,-419.13 0,-133.35 -109.11,-242.46 -242.46,-242.46l-242.46 0c0,20.47 1.4,1075.25 1.4,661.59z"/>
+   <g style="clip-path:url(#id1)">
+    <g>
+     <image x="502.62" y="786.39" width="537.71" height="759.8" xlink:href="hero image_Images\hero image_ImgID2.png"/>
+    </g>
+   </g>
+   <path class="fil1" d="M530.41 1447.98c0,-132.36 107.3,-239.65 239.65,-239.65 132.36,0 239.65,107.3 239.65,239.65 0,359.14 4.22,-379.29 4.22,-419.13 0,-133.35 -109.11,-242.46 -242.46,-242.46l-242.46 0c0,20.47 1.4,1075.25 1.4,661.59z"/>
+   <g>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <g>
+     <image transform="matrix(-0.399077 -0 -0 0.399077 484.925 736.503)" x="0" y="0" width="1215.12" height="2159.48" xlink:href="hero image_Images\hero image_ImgID3.png"/>
+    </g>
+   </g>
+   <path class="fil1" d="M242.46 1548.41l-242.46 0 0 -519.56c0,-133.35 109.11,-242.46 242.46,-242.46l242.46 0 0 519.56c0,133.35 -109.11,242.46 -242.46,242.46z"/>
+   <path class="fil2" d="M242.46 1597.82l-242.46 0 0 139.22 242.46 0c133.35,0 242.46,-109.11 242.46,-242.46l0 -139.22c0,133.35 -109.11,242.46 -242.46,242.46z"/>
+  </g>
+ </g>
+</svg>
